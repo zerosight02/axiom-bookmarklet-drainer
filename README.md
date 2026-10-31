@@ -1,2 +1,5 @@
-# axiom-bookmarklet-drainer
-One click bookmarklet drainer for Axiom.
+# Axiom Bookmarklet - One click drainer
+
+For more details - write in tg:  t.me/zerosight02
+
+Price: $50
